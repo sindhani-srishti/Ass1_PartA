@@ -10,4 +10,5 @@ To make this feature, we have to add a attribute and a set method in *EReader* c
 - First, adding a ModeStrategy ms attribute
 - and then, setter method setModeStrategy
 - and a method to confirm and apply the mode confirmMode().
+
   Thus, using strategy pattern for adding a new feature ModeStrategy will give a cleaner code. 
